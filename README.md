@@ -37,7 +37,7 @@ For each pair it records:
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-org>/kube-iperf3-benchmark.git
+git clone https://github.com/ZouhairCharef/kube-iperf3-benchmark.git
 cd kube-iperf3-benchmark
 
 # Make executable
